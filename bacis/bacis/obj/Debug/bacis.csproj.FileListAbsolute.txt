@@ -5,3 +5,10 @@ C:\Users\Administrator\Desktop\11-17-CSharp\bacis\bacis\obj\Debug\bacis.csproj.A
 C:\Users\Administrator\Desktop\11-17-CSharp\bacis\bacis\obj\Debug\bacis.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\Desktop\11-17-CSharp\bacis\bacis\obj\Debug\bacis.exe
 C:\Users\Administrator\Desktop\11-17-CSharp\bacis\bacis\obj\Debug\bacis.pdb
+C:\지훈\CSharpLearn\bacis\bacis\bin\Debug\bacis.exe.config
+C:\지훈\CSharpLearn\bacis\bacis\bin\Debug\bacis.exe
+C:\지훈\CSharpLearn\bacis\bacis\bin\Debug\bacis.pdb
+C:\지훈\CSharpLearn\bacis\bacis\obj\Debug\bacis.csproj.AssemblyReference.cache
+C:\지훈\CSharpLearn\bacis\bacis\obj\Debug\bacis.csproj.CoreCompileInputs.cache
+C:\지훈\CSharpLearn\bacis\bacis\obj\Debug\bacis.exe
+C:\지훈\CSharpLearn\bacis\bacis\obj\Debug\bacis.pdb
