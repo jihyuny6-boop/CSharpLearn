@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\\uC9C0\uD6C8\\CSharpLearn\\bacis\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B77213AB-48C9-4D8F-8EFC-F8854E212922}|bacis\\bacis.csproj|c:\\\uC9C0\uD6C8\\csharplearn\\bacis\\bacis\\\uD0DD\uC2A4\uD2B8rpg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B77213AB-48C9-4D8F-8EFC-F8854E212922}|bacis\\bacis.csproj|solutionrelative:bacis\\\uD0DD\uC2A4\uD2B8rpg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B77213AB-48C9-4D8F-8EFC-F8854E212922}|bacis\\bacis.csproj|c:\\\uC9C0\uD6C8\\csharplearn\\bacis\\bacis\\\uC0C1\uC810\uD398\uC774\uC9C0 \uAD6C\uC131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B77213AB-48C9-4D8F-8EFC-F8854E212922}|bacis\\bacis.csproj|solutionrelative:bacis\\\uC0C1\uC810\uD398\uC774\uC9C0 \uAD6C\uC131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B77213AB-48C9-4D8F-8EFC-F8854E212922}|bacis\\bacis.csproj|c:\\\uC9C0\uD6C8\\csharplearn\\bacis\\bacis\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{B77213AB-48C9-4D8F-8EFC-F8854E212922}|bacis\\bacis.csproj|solutionrelative:bacis\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{B77213AB-48C9-4D8F-8EFC-F8854E212922}|bacis\\bacis.csproj|c:\\\uC9C0\uD6C8\\csharplearn\\bacis\\bacis\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B77213AB-48C9-4D8F-8EFC-F8854E212922}|bacis\\bacis.csproj|solutionrelative:bacis\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B77213AB-48C9-4D8F-8EFC-F8854E212922}|bacis\\bacis.csproj|C:\\\uC9C0\uD6C8\\CSharpLearn\\bacis\\bacis\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B77213AB-48C9-4D8F-8EFC-F8854E212922}|bacis\\bacis.csproj|solutionrelative:bacis\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,37 +22,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "\uD0DD\uC2A4\uD2B8RPG.cs",
-              "DocumentMoniker": "C:\\\uC9C0\uD6C8\\CSharpLearn\\bacis\\bacis\\\uD0DD\uC2A4\uD2B8RPG.cs",
-              "RelativeDocumentMoniker": "bacis\\\uD0DD\uC2A4\uD2B8RPG.cs",
-              "ToolTip": "C:\\\uC9C0\uD6C8\\CSharpLearn\\bacis\\bacis\\\uD0DD\uC2A4\uD2B8RPG.cs",
-              "RelativeToolTip": "bacis\\\uD0DD\uC2A4\uD2B8RPG.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Title": "\uC0C1\uC810\uD398\uC774\uC9C0 \uAD6C\uC131.cs",
+              "DocumentMoniker": "C:\\\uC9C0\uD6C8\\CSharpLearn\\bacis\\bacis\\\uC0C1\uC810\uD398\uC774\uC9C0 \uAD6C\uC131.cs",
+              "RelativeDocumentMoniker": "bacis\\\uC0C1\uC810\uD398\uC774\uC9C0 \uAD6C\uC131.cs",
+              "ToolTip": "C:\\\uC9C0\uD6C8\\CSharpLearn\\bacis\\bacis\\\uC0C1\uC810\uD398\uC774\uC9C0 \uAD6C\uC131.cs",
+              "RelativeToolTip": "bacis\\\uC0C1\uC810\uD398\uC774\uC9C0 \uAD6C\uC131.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-19T12:30:53.19Z",
+              "WhenOpened": "2026-11-20T12:28:44.717Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\\uC9C0\uD6C8\\CSharpLearn\\bacis\\bacis\\App.config",
-              "RelativeDocumentMoniker": "bacis\\App.config",
-              "ToolTip": "C:\\\uC9C0\uD6C8\\CSharpLearn\\bacis\\bacis\\App.config",
-              "RelativeToolTip": "bacis\\App.config",
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\\uC9C0\uD6C8\\CSharpLearn\\bacis\\bacis\\Class1.cs",
+              "RelativeDocumentMoniker": "bacis\\Class1.cs",
+              "ToolTip": "C:\\\uC9C0\uD6C8\\CSharpLearn\\bacis\\bacis\\Class1.cs",
+              "RelativeToolTip": "bacis\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2026-11-19T11:11:48.797Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T12:11:02.447Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "data.cs",
+              "DocumentMoniker": "C:\\\uC9C0\uD6C8\\CSharpLearn\\bacis\\bacis\\data.cs",
+              "RelativeDocumentMoniker": "bacis\\data.cs",
+              "ToolTip": "C:\\\uC9C0\uD6C8\\CSharpLearn\\bacis\\bacis\\data.cs",
+              "RelativeToolTip": "bacis\\data.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T12:10:27.746Z"
             }
           ]
         },

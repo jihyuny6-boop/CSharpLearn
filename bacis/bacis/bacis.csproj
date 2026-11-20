@@ -44,7 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="택스트RPG.cs" />
+    <Compile Include="상점페이지 구성.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
