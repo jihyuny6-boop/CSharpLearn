@@ -1,0 +1,16 @@
+C:\지훈\CSharpLearn\bacis\Learn\obj\Debug\net10.0\Learn.GeneratedMSBuildEditorConfig.editorconfig
+C:\지훈\CSharpLearn\bacis\Learn\obj\Debug\net10.0\Learn.AssemblyInfoInputs.cache
+C:\지훈\CSharpLearn\bacis\Learn\obj\Debug\net10.0\Learn.AssemblyInfo.cs
+C:\지훈\CSharpLearn\bacis\Learn\obj\Debug\net10.0\Learn.csproj.CoreCompileInputs.cache
+C:\지훈\CSharpLearn\bacis\Learn\obj\Debug\net10.0\Learn.sourcelink.json
+C:\지훈\CSharpLearn\bacis\Learn\bin\Debug\net10.0\Learn.exe
+C:\지훈\CSharpLearn\bacis\Learn\bin\Debug\net10.0\Learn.deps.json
+C:\지훈\CSharpLearn\bacis\Learn\bin\Debug\net10.0\Learn.runtimeconfig.json
+C:\지훈\CSharpLearn\bacis\Learn\bin\Debug\net10.0\Learn.dll
+C:\지훈\CSharpLearn\bacis\Learn\bin\Debug\net10.0\Learn.pdb
+C:\지훈\CSharpLearn\bacis\Learn\obj\Debug\net10.0\Learn.dll
+C:\지훈\CSharpLearn\bacis\Learn\obj\Debug\net10.0\refint\Learn.dll
+C:\지훈\CSharpLearn\bacis\Learn\obj\Debug\net10.0\Learn.pdb
+C:\지훈\CSharpLearn\bacis\Learn\obj\Debug\net10.0\Learn.genruntimeconfig.cache
+C:\지훈\CSharpLearn\bacis\Learn\obj\Debug\net10.0\ref\Learn.dll
+C:\지훈\CSharpLearn\bacis\Learn\obj\Debug\net10.0\Learn.csproj.Up2Date
