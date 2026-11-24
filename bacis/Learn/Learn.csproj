@@ -8,8 +8,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="게임에서 사용하는 클래스.cs" />
     <Compile Remove="메인.cs" />
     <Compile Remove="클래스.cs" />
+    <Compile Remove="클래스게임메인.cs" />
   </ItemGroup>
 
 </Project>

@@ -1,0 +1,15 @@
+C:\지훈\CSharpLearn\bacis\bacis\Lean\bin\Debug\net9.0\Lean.exe
+C:\지훈\CSharpLearn\bacis\bacis\Lean\bin\Debug\net9.0\Lean.deps.json
+C:\지훈\CSharpLearn\bacis\bacis\Lean\bin\Debug\net9.0\Lean.runtimeconfig.json
+C:\지훈\CSharpLearn\bacis\bacis\Lean\bin\Debug\net9.0\Lean.dll
+C:\지훈\CSharpLearn\bacis\bacis\Lean\bin\Debug\net9.0\Lean.pdb
+C:\지훈\CSharpLearn\bacis\bacis\Lean\obj\Debug\net9.0\Lean.GeneratedMSBuildEditorConfig.editorconfig
+C:\지훈\CSharpLearn\bacis\bacis\Lean\obj\Debug\net9.0\Lean.AssemblyInfoInputs.cache
+C:\지훈\CSharpLearn\bacis\bacis\Lean\obj\Debug\net9.0\Lean.AssemblyInfo.cs
+C:\지훈\CSharpLearn\bacis\bacis\Lean\obj\Debug\net9.0\Lean.csproj.CoreCompileInputs.cache
+C:\지훈\CSharpLearn\bacis\bacis\Lean\obj\Debug\net9.0\Lean.sourcelink.json
+C:\지훈\CSharpLearn\bacis\bacis\Lean\obj\Debug\net9.0\Lean.dll
+C:\지훈\CSharpLearn\bacis\bacis\Lean\obj\Debug\net9.0\refint\Lean.dll
+C:\지훈\CSharpLearn\bacis\bacis\Lean\obj\Debug\net9.0\Lean.pdb
+C:\지훈\CSharpLearn\bacis\bacis\Lean\obj\Debug\net9.0\Lean.genruntimeconfig.cache
+C:\지훈\CSharpLearn\bacis\bacis\Lean\obj\Debug\net9.0\ref\Lean.dll

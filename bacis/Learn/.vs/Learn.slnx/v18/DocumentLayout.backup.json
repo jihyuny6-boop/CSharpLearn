@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\\uC9C0\uD6C8\\CSharpLearn\\bacis\\Learn\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{77850D1E-7B43-4502-9E8F-3775973EE836}|Learn.csproj|c:\\\uC9C0\uD6C8\\csharplearn\\bacis\\learn\\\uD074\uB798\uC2A4\uAC8C\uC784\uBA54\uC778.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77850D1E-7B43-4502-9E8F-3775973EE836}|Learn.csproj|solutionrelative:\uD074\uB798\uC2A4\uAC8C\uC784\uBA54\uC778.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{243EA969-4464-0B5E-2691-FE0852137631}|Learn.csproj|c:\\\uC9C0\uD6C8\\csharplearn\\bacis\\learn\\\uD074\uB798\uC2A4\uAC8C\uC784\uBA54\uC778.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{243EA969-4464-0B5E-2691-FE0852137631}|Learn.csproj|solutionrelative:\uD074\uB798\uC2A4\uAC8C\uC784\uBA54\uC778.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77850D1E-7B43-4502-9E8F-3775973EE836}|Learn.csproj|c:\\\uC9C0\uD6C8\\csharplearn\\bacis\\learn\\\uAC8C\uC784\uC5D0\uC11C \uC0AC\uC6A9\uD558\uB294 \uD074\uB798\uC2A4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77850D1E-7B43-4502-9E8F-3775973EE836}|Learn.csproj|solutionrelative:\uAC8C\uC784\uC5D0\uC11C \uC0AC\uC6A9\uD558\uB294 \uD074\uB798\uC2A4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{243EA969-4464-0B5E-2691-FE0852137631}|Learn.csproj|c:\\\uC9C0\uD6C8\\csharplearn\\bacis\\learn\\\uAC8C\uC784\uC5D0\uC11C \uC0AC\uC6A9\uD558\uB294 \uD074\uB798\uC2A4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{243EA969-4464-0B5E-2691-FE0852137631}|Learn.csproj|solutionrelative:\uAC8C\uC784\uC5D0\uC11C \uC0AC\uC6A9\uD558\uB294 \uD074\uB798\uC2A4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77850D1E-7B43-4502-9E8F-3775973EE836}|Learn.csproj|c:\\\uC9C0\uD6C8\\csharplearn\\bacis\\learn\\\uD074\uB798\uC2A4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77850D1E-7B43-4502-9E8F-3775973EE836}|Learn.csproj|solutionrelative:\uD074\uB798\uC2A4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{243EA969-4464-0B5E-2691-FE0852137631}|Learn.csproj|c:\\\uC9C0\uD6C8\\csharplearn\\bacis\\learn\\\uBA54\uC778.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{243EA969-4464-0B5E-2691-FE0852137631}|Learn.csproj|solutionrelative:\uBA54\uC778.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77850D1E-7B43-4502-9E8F-3775973EE836}|Learn.csproj|c:\\\uC9C0\uD6C8\\csharplearn\\bacis\\learn\\\uBA54\uC778.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77850D1E-7B43-4502-9E8F-3775973EE836}|Learn.csproj|solutionrelative:\uBA54\uC778.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{243EA969-4464-0B5E-2691-FE0852137631}|Learn.csproj|c:\\\uC9C0\uD6C8\\csharplearn\\bacis\\learn\\\uD074\uB798\uC2A4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{243EA969-4464-0B5E-2691-FE0852137631}|Learn.csproj|solutionrelative:\uD074\uB798\uC2A4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "\uD074\uB798\uC2A4\uAC8C\uC784\uBA54\uC778.cs",
               "ToolTip": "C:\\\uC9C0\uD6C8\\CSharpLearn\\bacis\\Learn\\\uD074\uB798\uC2A4\uAC8C\uC784\uBA54\uC778.cs",
               "RelativeToolTip": "\uD074\uB798\uC2A4\uAC8C\uC784\uBA54\uC778.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-23T12:41:46.873Z",
               "EditorCaption": ""
@@ -53,14 +53,14 @@
               "RelativeDocumentMoniker": "\uAC8C\uC784\uC5D0\uC11C \uC0AC\uC6A9\uD558\uB294 \uD074\uB798\uC2A4.cs",
               "ToolTip": "C:\\\uC9C0\uD6C8\\CSharpLearn\\bacis\\Learn\\\uAC8C\uC784\uC5D0\uC11C \uC0AC\uC6A9\uD558\uB294 \uD074\uB798\uC2A4.cs",
               "RelativeToolTip": "\uAC8C\uC784\uC5D0\uC11C \uC0AC\uC6A9\uD558\uB294 \uD074\uB798\uC2A4.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-23T12:14:30.049Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "\uD074\uB798\uC2A4.cs",
               "DocumentMoniker": "C:\\\uC9C0\uD6C8\\CSharpLearn\\bacis\\Learn\\\uD074\uB798\uC2A4.cs",
               "RelativeDocumentMoniker": "\uD074\uB798\uC2A4.cs",
@@ -73,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "\uBA54\uC778.cs",
               "DocumentMoniker": "C:\\\uC9C0\uD6C8\\CSharpLearn\\bacis\\Learn\\\uBA54\uC778.cs",
               "RelativeDocumentMoniker": "\uBA54\uC778.cs",
