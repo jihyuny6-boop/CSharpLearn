@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\\uC9C0\uD6C8\\CSharpLearn\\bacis\\Learn\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{243EA969-4464-0B5E-2691-FE0852137631}|Learn.csproj|c:\\\uC9C0\uD6C8\\csharplearn\\bacis\\learn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{243EA969-4464-0B5E-2691-FE0852137631}|Learn.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{243EA969-4464-0B5E-2691-FE0852137631}|Learn.csproj|c:\\\uC9C0\uD6C8\\csharplearn\\bacis\\learn\\\uD074\uB798\uC2A4\uAC8C\uC784\uBA54\uC778.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{243EA969-4464-0B5E-2691-FE0852137631}|Learn.csproj|solutionrelative:\uD074\uB798\uC2A4\uAC8C\uC784\uBA54\uC778.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,6 +39,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\\uC9C0\uD6C8\\CSharpLearn\\bacis\\Learn\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\\uC9C0\uD6C8\\CSharpLearn\\bacis\\Learn\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAswFcBAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T12:20:12.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "\uD074\uB798\uC2A4\uAC8C\uC784\uBA54\uC778.cs",
               "DocumentMoniker": "C:\\\uC9C0\uD6C8\\CSharpLearn\\bacis\\Learn\\\uD074\uB798\uC2A4\uAC8C\uC784\uBA54\uC778.cs",
               "RelativeDocumentMoniker": "\uD074\uB798\uC2A4\uAC8C\uC784\uBA54\uC778.cs",
@@ -42,12 +59,11 @@
               "RelativeToolTip": "\uD074\uB798\uC2A4\uAC8C\uC784\uBA54\uC778.cs",
               "ViewState": "AgIAADQAAAAAAAAAAAAQwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-23T12:41:46.873Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-23T12:41:46.873Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "\uAC8C\uC784\uC5D0\uC11C \uC0AC\uC6A9\uD558\uB294 \uD074\uB798\uC2A4.cs",
               "DocumentMoniker": "C:\\\uC9C0\uD6C8\\CSharpLearn\\bacis\\Learn\\\uAC8C\uC784\uC5D0\uC11C \uC0AC\uC6A9\uD558\uB294 \uD074\uB798\uC2A4.cs",
               "RelativeDocumentMoniker": "\uAC8C\uC784\uC5D0\uC11C \uC0AC\uC6A9\uD558\uB294 \uD074\uB798\uC2A4.cs",
@@ -55,12 +71,11 @@
               "RelativeToolTip": "\uAC8C\uC784\uC5D0\uC11C \uC0AC\uC6A9\uD558\uB294 \uD074\uB798\uC2A4.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-23T12:14:30.049Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-23T12:14:30.049Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "\uD074\uB798\uC2A4.cs",
               "DocumentMoniker": "C:\\\uC9C0\uD6C8\\CSharpLearn\\bacis\\Learn\\\uD074\uB798\uC2A4.cs",
               "RelativeDocumentMoniker": "\uD074\uB798\uC2A4.cs",
@@ -68,12 +83,11 @@
               "RelativeToolTip": "\uD074\uB798\uC2A4.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-23T11:41:34.307Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-23T11:41:34.307Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "\uBA54\uC778.cs",
               "DocumentMoniker": "C:\\\uC9C0\uD6C8\\CSharpLearn\\bacis\\Learn\\\uBA54\uC778.cs",
               "RelativeDocumentMoniker": "\uBA54\uC778.cs",
@@ -81,8 +95,7 @@
               "RelativeToolTip": "\uBA54\uC778.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-23T11:19:56.438Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-23T11:19:56.438Z"
             }
           ]
         },
