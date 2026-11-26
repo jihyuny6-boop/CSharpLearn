@@ -9,10 +9,13 @@
 
   <ItemGroup>
     <Compile Remove="Bullet.cs" />
+    <Compile Remove="ConsoleBlockGame.cs" />
     <Compile Remove="GameManager.cs" />
     <Compile Remove="Monster.cs" />
     <Compile Remove="Player.cs" />
+    <Compile Remove="TetrisGame.cs" />
     <Compile Remove="게임에서 사용하는 클래스.cs" />
+    <Compile Remove="만들면서클래스배우기.cs" />
     <Compile Remove="메인.cs" />
     <Compile Remove="클래스.cs" />
     <Compile Remove="클래스게임메인.cs" />

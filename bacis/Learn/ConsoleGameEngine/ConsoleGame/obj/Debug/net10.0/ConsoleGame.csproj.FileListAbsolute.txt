@@ -1,0 +1,16 @@
+C:\지훈\CSharpLearn\bacis\Learn\ConsoleGameEngine\ConsoleGame\bin\Debug\net10.0\ConsoleGame.exe
+C:\지훈\CSharpLearn\bacis\Learn\ConsoleGameEngine\ConsoleGame\bin\Debug\net10.0\ConsoleGame.deps.json
+C:\지훈\CSharpLearn\bacis\Learn\ConsoleGameEngine\ConsoleGame\bin\Debug\net10.0\ConsoleGame.runtimeconfig.json
+C:\지훈\CSharpLearn\bacis\Learn\ConsoleGameEngine\ConsoleGame\bin\Debug\net10.0\ConsoleGame.dll
+C:\지훈\CSharpLearn\bacis\Learn\ConsoleGameEngine\ConsoleGame\bin\Debug\net10.0\ConsoleGame.pdb
+C:\지훈\CSharpLearn\bacis\Learn\ConsoleGameEngine\ConsoleGame\obj\Debug\net10.0\ConsoleGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\지훈\CSharpLearn\bacis\Learn\ConsoleGameEngine\ConsoleGame\obj\Debug\net10.0\ConsoleGame.AssemblyInfoInputs.cache
+C:\지훈\CSharpLearn\bacis\Learn\ConsoleGameEngine\ConsoleGame\obj\Debug\net10.0\ConsoleGame.AssemblyInfo.cs
+C:\지훈\CSharpLearn\bacis\Learn\ConsoleGameEngine\ConsoleGame\obj\Debug\net10.0\ConsoleGame.csproj.CoreCompileInputs.cache
+C:\지훈\CSharpLearn\bacis\Learn\ConsoleGameEngine\ConsoleGame\obj\Debug\net10.0\ConsoleGame.sourcelink.json
+C:\지훈\CSharpLearn\bacis\Learn\ConsoleGameEngine\ConsoleGame\obj\Debug\net10.0\ConsoleGame.dll
+C:\지훈\CSharpLearn\bacis\Learn\ConsoleGameEngine\ConsoleGame\obj\Debug\net10.0\refint\ConsoleGame.dll
+C:\지훈\CSharpLearn\bacis\Learn\ConsoleGameEngine\ConsoleGame\obj\Debug\net10.0\ConsoleGame.pdb
+C:\지훈\CSharpLearn\bacis\Learn\ConsoleGameEngine\ConsoleGame\obj\Debug\net10.0\ConsoleGame.genruntimeconfig.cache
+C:\지훈\CSharpLearn\bacis\Learn\ConsoleGameEngine\ConsoleGame\obj\Debug\net10.0\ref\ConsoleGame.dll
+C:\지훈\CSharpLearn\bacis\Learn\ConsoleGameEngine\ConsoleGame\obj\Debug\net10.0\ConsoleG.E8750121.Up2Date
